@@ -1,0 +1,26 @@
+# AMC-TXT source 
+Lang: FR 
+Title: MATH
+
+*   Quelle est la somme de 5 + 7 ?
+- 10
++ 12
+- 13
+* Quelle est la racine carrée de 25 ?
+- 45
++ 5
+- 8
+* Quelle est la circonférence d'un cercle avec un rayon de 4 unités ?
+- 8π
+- 10π
++ 12π
+- 84π
+* Quelle est la dérivée de x^2 par rapport à x ?
++ 2x
+- 15x
+- 1/x
+* Quel est le périmètre d'un rectangle de longueur 6 unités et de largeur 4 unités 
+- 56
+- 34
+- 78
++ 24
